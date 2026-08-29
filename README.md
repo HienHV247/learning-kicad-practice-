@@ -1,2 +1,5 @@
-# learning-kicad-practice-
-KiCad practice projects and exercises completed while learning PCB design through an online Udemy course, covering schematic capture, PCB layout, routing, and design fundamentals.
+# KiCad Learning and Practice
+
+Practice files and exercises created while learning KiCad through an online course.
+
+These files are included to document my learning progress and are not presented as original independent designs.
