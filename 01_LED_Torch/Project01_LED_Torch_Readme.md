@@ -1,29 +1,41 @@
-# KiCad LED Torch
+# LED Torch
 
-My first PCB design project created while learning KiCad.
+My first KiCad practice project completed while learning PCB design.
 
 ## Project Overview
-A simple battery-powered LED torch circuit consisting of:
-- CR2032 coin-cell battery
+
+This is a simple battery-powered LED torch circuit created as a KiCad learning exercise.
+
+The project includes:
+- CR2032 battery
 - LED
 - 330 Ω current-limiting resistor
 - DPDT switch
 
-## Tools
-- KiCad
+## Schematic
+
+![LED Torch Schematic](LED_Torch_Schem.png)
+
+## PCB Layout
+
+![LED Torch PCB](LED_Torch_PCB.png)
 
 ## What I Practiced
+
 - Schematic capture
 - Footprint assignment
-- PCB placement
-- PCB routing
+- PCB component placement
+- Routing
 - Board outline design
-- ERC/DRC workflow
+- Basic ERC/DRC workflow
 
-## Files
-- KiCad schematic
-- PCB layout
-- Project files
+## Project Files
+
+- `LED_Torch.kicad_pro`
+- `LED_Torch.kicad_sch`
+- `LED_Torch.kicad_pcb`
 
 ## Status
-Learning project — not fabricated yet.
+
+Learning project completed as part of an online KiCad course.  
+This design has not been fabricated or independently validated.
