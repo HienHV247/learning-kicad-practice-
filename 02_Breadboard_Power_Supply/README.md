@@ -18,11 +18,11 @@ This project converts a 12 V DC input into regulated 5 V and 3.3 V outputs for b
 
 ## Schematic
 
-![Schematic](images/Breadboard_Power_Supply_Schematic.png) 
+![Schematic](Breadboard_Power_Supply_Schematic.png)
 
 ## PCB Layout
 
-![PCB Layout](images/Breadboard_Power_Supply_PCB.png)
+![PCB Layout](Breadboard_Power_Supply_PCB.png)
 
 ## What I Practiced
 
